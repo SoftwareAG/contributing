@@ -6,7 +6,7 @@ Except for the license granted herein, You reserve all right, title, and interes
  
 You accept and agree to the following terms and conditions for Your Contributions submitted to **Software AG**.
  
-You agree to read, understand and follow the guidelines for the various roles You represent in **Software AG**’s opensource communities, starting with the contributor guidelines [**CONTRIBUTING.md**](https://github.com/SoftwareAG/contributing/blob/main/CONTRIBUTING.md).
+You read, understand and follow the guidelines for the various roles You represent in **Software AG**’s opensource communities, starting with the contributor guidelines [**CONTRIBUTING.md**](https://github.com/SoftwareAG/contributing/blob/main/CONTRIBUTING.md).
  
 **“Contribution”** means any original work of authorship, including any modification of or addition to an existing work including any associated comments and documentation, that you submit to **Software AG** in any manner for inclusion in any Work. 
  
