@@ -32,6 +32,6 @@ You are not expected to provide support for Your Contributions, except to the ex
  
 You agree to notify **Software AG** of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
  
-By signing-off on my Submissions, I agree to be bound by the terms of the then current CONTRIBUTOR LICENSE AGREEMENT located at https://github.com/SoftwareAG/contributing/blob/main/CONTRIBUTOR-LICENSE-AGREEMENT.md, which I have read and understood and I agree that this Submission constitutes a "Contribution" under this Agreement.
+By signing-off on my Submissions, I agree to be bound by the terms of the then current CONTRIBUTOR LICENSE AGREEMENT located at https://github.com/SoftwareAG/contributing, which I have read and understood and I agree that this Submission constitutes a "Contribution" under this Agreement.
  
 Release Date: 2021-03-29
