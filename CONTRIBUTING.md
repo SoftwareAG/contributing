@@ -35,11 +35,11 @@ In the upper-right corner of any page, click your profile photo, then click Sett
 See [setting your commit email address in Git](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address#setting-your-commit-email-address-in-git).
  
 1. Open Git Bash.
-1. Set an email address in Git. You can use your GitHub-provided no-reply email addressor any email address.
+2. Set an email address in Git. You can use your GitHub-provided no-reply email addressor any email address.
 >$ git config --global user.email "email@example.com"
-1.Confirm that you have set the email address correctly in Git:
->$ git config --global user.email
+3. Confirm that you have set the email address correctly in Git:
+>$ git config --global user.email <br>
 >email@example.com
-1. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
+4. Add the email address to your account on GitHub, so that your commits are attributed to you and appear in your contributions graph.
  
 Release date: 2021-03-29
